@@ -153,7 +153,7 @@ graph LR
         SY6[BI / Reporting\nLooker / Tableau]
         SY7[Communication\nSlack / Teams]
         SY8[Document Management\nConfluence / Notion]
-        SY9[AI Fabric\nGTM Fabric Agents]
+        SY9[AI Fabric\nEnterprise Agents]
     end
 
     SY1 <-->|bi-directional sync| SY3
@@ -282,7 +282,7 @@ graph TD
         PL6[Data Platform\nSnowflake / Databricks]
         PL7[AI / LLM Platform\nAnthropic / OpenAI / Bedrock]
         PL8[Integration / iPaaS\nMuleSoft / n8n / Zapier]
-        PL9[GTM Fabric\nAgent Orchestration Layer]
+        PL9[Enterprise\nAgent Orchestration Layer]
     end
 
     PL1 -->|hosts| PL2 & PL6 & PL7
