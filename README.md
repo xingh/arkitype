@@ -16,4 +16,10 @@ This structure separates lasting knowledge, architectural decisions, active oper
 
 
 ## See Tekt.md 
-[https://tekt.md](Tekt.md) - is being built using the Arkitype core files. 
+[Tekt.md](https://tekt.md) - is being built using the Arkitype spec files
+- [00-ARKITYPE](https://tekt.md/00-arkitype/) - The Arkitype can be configured at this level.
+- [01-INFRASTRUCTURE](https://tekt.md/01-infrastructure/) - Where and how to run this system. 
+- [03-DATABASE](https://tekt.md/02-database/) - Where and how data should be managed, for processes.
+- [03-SOFTWARE](https://tekt.md/03-software/) - Where, how, and what processes are executed, when, for whom.
+- [04-INTERFACE](https://tekt.md/04-interface/) - Where, how , and what type of interfaces for whom. 
+
