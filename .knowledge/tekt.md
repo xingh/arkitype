@@ -1,6 +1,6 @@
 # TEKT — Technology Enterprise Knowledge Topology
 
-> A living architecture diagram of the GTM Fabric enterprise: **Agents · People · Tools · Roles · Processes · Graph · Framework · Platforms**
+> A living architecture diagram of the modern enterprise: **Agents · People · Tools · Roles · Processes · Graph · Framework · Platforms**
 
 ---
 
