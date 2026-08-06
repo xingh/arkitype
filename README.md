@@ -5,6 +5,16 @@ Arkitype organizes the durable context needed to build and operate a long-runnin
 ![Arkitype:The easiest way to train AI](./.knowledge/assets/arkitype.cover.2.png)
 Arkitype is a systematic approach to building agents, agent fleets, and intelligent teams.
 
+## Getting started
+
+Open this repository in a Dev Container to get a ready-to-use environment with the [Claude Code](https://claude.com/claude-code) CLI preinstalled:
+
+1. Install [VS Code](https://code.visualstudio.com/), the [Dev Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers), and Docker.
+2. Clone this repo and choose **Reopen in Container** when prompted.
+3. Run `claude` in the terminal to start working with the prompts and skills in `.arkitype/` and `.claude/`.
+
+The same `.devcontainer/devcontainer.json` also works in GitHub Codespaces, and can be reused in GitHub Actions runners via [`devcontainers/ci`](https://github.com/devcontainers/ci). See `.manage/2026.08.06.devcontainer.migration.plan.md` for the full migration plan.
+
 ## Workspace layout
 
 - `.knowledge/` contains enduring knowledge that can later feed a knowledge graph.
