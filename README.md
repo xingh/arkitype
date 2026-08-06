@@ -1,4 +1,5 @@
 # Arkitype
+![Arkitype:The easiest way to train AI](./knowlede/assets/arkitype.cover.1.png)
 
 Arkitype organizes the durable context needed to build and operate a long-running system.
 
