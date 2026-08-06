@@ -1,8 +1,8 @@
 # Arkitype
-![Arkitype:The easiest way to train AI](./knowledge/assets/arkitype.cover.1.png)
+![Arkitype:The easiest way to train AI](./.knowledge/assets/arkitype.cover.1.png)
 Arkitype organizes the durable context needed to build and operate a long-running system.
 
-![Arkitype:The easiest way to train AI](./knowledge/assets/arkitype.cover.2.png)
+![Arkitype:The easiest way to train AI](./.knowledge/assets/arkitype.cover.2.png)
 Arkitype is a systematic approach to building agents, agent fleets, and intelligent teams.
 
 ## Workspace layout
