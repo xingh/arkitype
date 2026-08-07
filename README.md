@@ -15,6 +15,17 @@ Open this repository in a Dev Container to get a ready-to-use environment with t
 
 The same `.devcontainer/devcontainer.json` also works in GitHub Codespaces, and can be reused in GitHub Actions runners via [`devcontainers/ci`](https://github.com/devcontainers/ci). See `.manage/2026.08.06.devcontainer.migration.plan.md` for the full migration plan.
 
+## Use as a Claude Code plugin library
+
+This repo is also a Claude Code plugin marketplace. From any Claude Code session:
+
+```
+/plugin marketplace add xingh/arkitype
+/plugin install arkitype@arkitype
+```
+
+That installs the `arkitype` plugin: the `/arkitype:extract` codebase-extraction command, three skills (`rfp-proposal-responder`, `domain-to-diligence`, `opportunity-finder`), and three agents (`project-arkitekt`, `project-manager`, `project-cleaner`). See `plugins/arkitype/README.md` for details.
+
 ## Workspace layout
 
 - `.knowledge/` contains enduring knowledge that can later feed a knowledge graph.
