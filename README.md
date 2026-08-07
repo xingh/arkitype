@@ -17,11 +17,11 @@ What does it mean for you as a user? There are different types of vocabulary / p
 
 ### knowledge 
 
-Knowledge is true and eternal. It is important to have in one place. This could be different things. It could be in different forms. As long as you can agree with team mates that Knowledge is what you all agree on, then AI can treat that as important. It can be technically true outside of time, but for us, it's important to distinguish principles in Knowledge, and process documentation i Knowledge, and how the principles are executed, and the data/information related to that execution. 
+Knowledge is true and eternal. It is important to have in one place. This could be different things. It could be in different forms. As long as you can agree with team mates that Knowledge is what you all agree on, then AI can treat that as important. It can be technically true outside of time, but for us, it's important to distinguish principles in Knowledge, and process documentation in Knowledge, and how the principles are executed, and the data/information related to that execution. 
 
 ### arkitype 
 
-Arkitype is the thing you are creating. It is how it is constituted. The layers and the overrides. The layers for now an be simply Interface, Software, Database, and Infrastructure, implemented in reverse order 01-Infrastructure, 02-Database, 03-Software, 04-Interface because that's how they are built on the Cloud. This could be your own terminology , but as long as you define them , the system should adhere to the spec defined by you. 00-Arkitype is the essence of how this software is configured for a specific purpose. 20 Systems could share the same system layer specs, but have differen 00-Arkitype documents that specify how that system operates. 
+Arkitype is the thing you are creating. It is how it is constituted. The layers and the overrides. The layers for now an be simply Interface, Software, Database, and Infrastructure, implemented in reverse order 01-Infrastructure, 02-Database, 03-Software, 04-Interface because that's how they are built on the Cloud. This could be your own terminology , but as long as you define them , the system should adhere to the spec defined by you. 00-Arkitype is the essence of how this software is configured for a specific purpose. 20 Systems could share the same system layer specs, but have different 00-Arkitype documents that specify how that system operates. 
 
 ### manage
 
