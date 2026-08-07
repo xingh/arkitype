@@ -8,6 +8,9 @@ We seek to make the easiest way to do this, and by that means, a manner , a syst
 
 What does it mean for you as a user? There are different types of vocabulary / primitives / etc that will be published here, but they are not as important as understanding the purpose and flow of basic things. 
 
+![Arkitype:The easiest way to train AI](./.knowledge/assets/arkitype.master.png)
+
+
 ### knowledge 
 
 Knowledge is true and eternal. It is important to have in one place. This could be different things. It could be in different forms. As long as you can agree with team mates that Knowledge is what you all agree on, then AI can treat that as important. It can be technically true outside of time, but for us, it's important to distinguish principles in Knowledge, and process documentation i Knowledge, and how the principles are executed, and the data/information related to that execution. 
@@ -61,7 +64,6 @@ That installs the `arkitype` plugin: the `/arkitype:extract` codebase-extraction
 
 This structure separates lasting knowledge, architectural decisions, active operations, and completed work so that each remains easy to find over the lifetime of the system.
 
-![Arkitype:The easiest way to train AI](./.knowledge/assets/arkitype.master.png)
 
 
 
