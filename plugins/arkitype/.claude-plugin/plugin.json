@@ -1,0 +1,20 @@
+{
+  "name": "arkitype",
+  "description": "Arkitype workflows as a Claude Code plugin: project scaffolding and cleanup agents, the Arkitype codebase-extraction command, and business-development skills (RFP proposal responder, domain-to-diligence company analysis, funding opportunity finder)",
+  "version": "0.1.0",
+  "author": {
+    "name": "Rahul Singh",
+    "url": "https://github.com/xingh"
+  },
+  "homepage": "https://github.com/xingh/arkitype",
+  "repository": "https://github.com/xingh/arkitype",
+  "license": "MIT",
+  "keywords": [
+    "arkitype",
+    "project-management",
+    "rfp",
+    "due-diligence",
+    "grants",
+    "knowledge-management"
+  ]
+}

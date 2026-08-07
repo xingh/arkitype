@@ -1,0 +1,35 @@
+{
+  "name": "arkitype",
+  "owner": {
+    "name": "Rahul Singh",
+    "url": "https://github.com/xingh"
+  },
+  "metadata": {
+    "description": "Arkitype — skills, commands, and agents for organizing and managing knowledge, projects, and business-development workflows",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "arkitype",
+      "source": "./plugins/arkitype",
+      "description": "Project scaffolding agents, the Arkitype codebase-extraction workflow, and business-development skills (RFP proposal responder, domain-to-diligence company analysis, funding opportunity finder)",
+      "version": "0.1.0",
+      "author": {
+        "name": "Rahul Singh",
+        "url": "https://github.com/xingh"
+      },
+      "homepage": "https://github.com/xingh/arkitype",
+      "repository": "https://github.com/xingh/arkitype",
+      "license": "MIT",
+      "keywords": [
+        "arkitype",
+        "project-management",
+        "rfp",
+        "due-diligence",
+        "grants",
+        "knowledge-management"
+      ],
+      "category": "productivity"
+    }
+  ]
+}
