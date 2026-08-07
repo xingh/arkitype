@@ -35,6 +35,9 @@ That installs the `arkitype` plugin: the `/arkitype:extract` codebase-extraction
 
 This structure separates lasting knowledge, architectural decisions, active operations, and completed work so that each remains easy to find over the lifetime of the system.
 
+![Arkitype:The easiest way to train AI](./.knowledge/assets/arkitype.master.png)
+
+
 
 ## See Tekt.md 
 [Tekt.md](https://tekt.md) - Is built / generated using the Arkitype meta language. 
