@@ -2,6 +2,10 @@
 
 ## The future will be spoken into existence. 
 
+
+![Arkitype:The easiest way to train AI](./.knowledge/assets/arkitype.cover.1.png)
+Arkitype organizes the durable context needed to build and operate a long-running system.
+
 Having a standard vocabulary, if you are able to articulate what you need to be done and in which order, you have the ability to use code generators, autonomous agent technology to transform those words into software, agents, apps, and even companies. 
 
 We seek to make the easiest way to do this, and by that means, a manner , a systematic approach that can be taught to anyone, anywhere, and with various levels of education. Getting someone to start building properly leads them to continue to build properly. With Agents, we can give people the starting point, and keep updating the standard. 
@@ -28,8 +32,6 @@ Manage is about about maintainin the history of what needs to be done. It could 
 Archive is keeping a record of what's been done ( so that Manage is clean for operation), or irrelevant but useful to keep old Knowledge or Arkitypes. 
 
 
-![Arkitype:The easiest way to train AI](./.knowledge/assets/arkitype.cover.1.png)
-Arkitype organizes the durable context needed to build and operate a long-running system.
 
 ![Arkitype:The easiest way to train AI](./.knowledge/assets/arkitype.cover.2.png)
 Arkitype is a systematic approach to building agents, agent fleets, and intelligent teams.
